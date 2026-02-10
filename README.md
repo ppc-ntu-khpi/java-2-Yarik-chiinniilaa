@@ -24,7 +24,8 @@
     * `End = Start | ~Mask` (Побітове **OR** з інвертованою маскою)
 
 ### Візуалізація префіксів:
-![CIDR Table](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CIDR_Prefix_Table.png/400px-CIDR_Prefix_Table.png)
+<img width="1020" height="761" alt="Знімок екрана 2025-03-28 215616" src="https://github.com/user-attachments/assets/33dc9125-7a41-4b68-a51a-c1745c809e93" />
+
 
 ---
 
